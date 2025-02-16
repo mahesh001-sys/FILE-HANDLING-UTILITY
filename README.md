@@ -11,3 +11,5 @@ Key File Operations:
 Writing to a File: Writing data to a file involves either creating a new file or overwriting an existing file. Java provides the BufferedWriter and FileWriter classes to perform these tasks. When we write data to a file, it is important to ensure that the file is properly closed after writing to avoid data loss.
 Reading from a File: Reading data from a file involves fetching its content line by line. The BufferedReader and FileReader classes are typically used for this purpose. It's important to handle the case when the file may not exist or may be empty to prevent runtime errors.
 Modifying a File (Appending Data): Modifying or appending data to a file involves adding new content without affecting the existing content. This is done by using FileWriter with the true parameter, which allows appending rather than overwriting the content.
+# output :
+![Image](https://github.com/user-attachments/assets/22e1cfdd-c60a-4c2f-8669-a677a4630b01)
