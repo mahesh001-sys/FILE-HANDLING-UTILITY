@@ -13,3 +13,4 @@ Reading from a File: Reading data from a file involves fetching its content line
 Modifying a File (Appending Data): Modifying or appending data to a file involves adding new content without affecting the existing content. This is done by using FileWriter with the true parameter, which allows appending rather than overwriting the content.
 # output :
 ![Image](https://github.com/user-attachments/assets/22e1cfdd-c60a-4c2f-8669-a677a4630b01)
+![Image](https://github.com/user-attachments/assets/b1725924-da7c-4cfc-a42b-6fbb38b53662)
